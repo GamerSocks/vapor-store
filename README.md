@@ -57,7 +57,7 @@
 
 - [x] Donate Button :D
 - [x] InApp Updater
-- [ ] Search function for games
+- [X] Search function for games
 - [ ] Move to a built in Downloader/Installer
 - [x] Own Logo / Background
 - [ ] Cleanout and beautify the UI
